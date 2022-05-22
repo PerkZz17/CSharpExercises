@@ -20,7 +20,6 @@ namespace _03
             }
             else
                 Console.WriteLine("The biggest number is {0}", num2);
-
         }
     }
 }
